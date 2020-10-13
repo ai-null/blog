@@ -1,0 +1,47 @@
+baseurl: "http://replace-this-with-your-hugo-site.com/"
+languageCode: "en-us"
+title: Ainul's Blog
+theme: "papermod"
+
+minify:
+    disableXML: true
+    minifyOutput: true
+
+params:
+    defaultTheme: dark
+    Title: Ainul Blog
+    description: Nothing interesting here
+
+    profileMode:
+        enabled: false
+        buttons:
+            - name: Posts
+              url: posts
+            - name: Tags
+              url: tags
+
+    ShowReadingTime: true
+    ShowShareButtons: true
+    comments: false
+    defaultTheme: auto
+    disableThemeToggle : false
+    disableSpecial1stPost : false
+
+    homeInfoParams:
+        Title: "Hi there. \U0001F44B"
+        Content: I share story worth sharing.
+
+    socialIcons:
+        - name: github
+          url: 'https://github.com/ai-null'
+        - name: linkedin
+          url: 'https://linkedin.com/in/ai-null'
+
+menu:
+    main:
+        - name: About
+          url: /about/
+          weight: 5
+        - name: Tags
+          url: /tags/
+          weight: 5

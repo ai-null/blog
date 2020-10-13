@@ -3,12 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://replace-this-with-your-hugo-site.com/posts/my-first-post/</loc>
+    <loc>http://replace-this-with-your-hugo-site.com/</loc>
     <lastmod>2020-10-13T20:05:31+07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://replace-this-with-your-hugo-site.com/</loc>
+    <loc>http://replace-this-with-your-hugo-site.com/posts/my-first-post/</loc>
     <lastmod>2020-10-13T20:05:31+07:00</lastmod>
   </url>
   
