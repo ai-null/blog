@@ -20,9 +20,9 @@ params:
             - name: Tags
               url: tags
 
-    ShowReadingTime: true
-    ShowShareButtons: true
-    comments: false
+    ShowReadingTime: false
+    ShowShareButtons: false
+    comments: true
     defaultTheme: auto
     disableThemeToggle : false
     disableSpecial1stPost : false
