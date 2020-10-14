@@ -39,8 +39,8 @@ params:
 
 menu:
     main:
-        - name: About
-          url: /about/
+        - name: Archives
+          url: /archives/
           weight: 5
         - name: Tags
           url: /tags/

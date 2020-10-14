@@ -1,19 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Ai-null Blog</title>
+    <title>Posts on Ainul&#39;s Blog</title>
     <link>http://replace-this-with-your-hugo-site.com/posts/</link>
-    <description>Recent content in Posts on Ai-null Blog</description>
+    <description>Recent content in Posts on Ainul&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 13 Oct 2020 20:05:31 +0700</lastBuildDate><atom:link href="http://replace-this-with-your-hugo-site.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post</title>
+      <title>Introduction</title>
       <link>http://replace-this-with-your-hugo-site.com/posts/my-first-post/</link>
       <pubDate>Tue, 13 Oct 2020 20:05:31 +0700</pubDate>
       
       <guid>http://replace-this-with-your-hugo-site.com/posts/my-first-post/</guid>
-      <description></description>
+      <description>I&amp;rsquo;m Ainul, 19y/o stated in west java, Indonesia. For more information about me you can visit my Github or LinkedIn.
+This is the first time i make website for my personal story. In here i&amp;rsquo;m trying to write in full english for practicing too, since im not that good to begin with.
+That&amp;rsquo;s all for today maybe.
+&amp;ndash; End of Story &amp;ndash; </description>
     </item>
     
   </channel>
