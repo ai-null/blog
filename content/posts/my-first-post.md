@@ -8,6 +8,8 @@ I'm Ainul, 19y/o stated in west java, Indonesia. For more information about me y
 
 This is the first time i make website for my personal story. In here i'm trying to write in full english for practicing too, since im not that good to begin with.
 
-That's all for today maybe.
+Oh right, it's maybe a bit weird since there will be articles before this, the **Introduction**. That's because i had written a lot of stories before making this blog.
+
+That's all for today.
 
 #### -- End of Story --
